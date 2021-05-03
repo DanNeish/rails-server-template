@@ -93,7 +93,7 @@ GEM
     knife-zero (1.16.0)
       chef (~> 12.6)
     libyajl2 (1.2.0)
-    minitar (0.5.4)
+    minitar (0.9)
     mixlib-authentication (1.4.1)
       mixlib-log
     mixlib-cli (1.6.0)
